@@ -11,6 +11,7 @@ data:
       - roboshop-trainee
       userarn: arn:aws:iam::287223951807:user/krish
       username: krish
+    - groups:
       - roboshop-admin
       userarn: arn:aws:iam::287223951807:user/suresh
       username: suresh
